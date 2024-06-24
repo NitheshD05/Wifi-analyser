@@ -1,0 +1,5 @@
+scapy==2.4.5
+netifaces==0.11.0
+termcolor==2.2.0
+pyfiglet==0.8.post1
+python-nmap==0.7.1
