@@ -1,6 +1,6 @@
 # WiFi Analyser
 
-WiFi Analyser is a penetration testing tool designed to assess the security of WiFi networks. Developed in Python 3 and customized for Kali Linux, this tool is intended to be used in the Linux terminal for evaluating the security posture of targeted WiFi networks.
+WiFi Analyzer is a comprehensive tool designed for network administrators and security professionals to monitor and analyze WiFi networks. It offers a wide range of functionalities, including WiFi scanning, monitoring, various types of attacks (DoS, DDoS, Fake Authentication, etc.), packet sniffing, port scanning, and more. The tool is intended for testing and securing wireless networks.
 
 ## Features
 
@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 
 Python 3.x - The Python programming language (version 3.x).
 
-#### Python Libraries:
+### Python Libraries:
 
 **scapy:** A powerful Python library used for network packet manipulation.
 
@@ -49,7 +49,7 @@ Python 3.x - The Python programming language (version 3.x).
 
 **python-nmap:** A Python library to interact with the Nmap port scanner.
 
-#### System Utilities:
+### System Utilities:
 
 **aircrack-ng:** A suite of tools for auditing wireless networks.
 
